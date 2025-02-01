@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://user-images.githubusercontent.com/44104676/173990923-48b66056-0bff-472a-b5bf-faab4146e950.gif" height="40"> I'm Nigel</h1>
 
-<a href="https://github.com/lightlifedev"><img src="https://github.com/lightlifedev/lightlifedev/blob/master/portfolio.png" width="1000"/></a>
+<a href="https://nigel-russell.vercel.app"><img src="https://github.com/lightlifedev/lightlifedev/blob/master/portfolio.png" width="1000"/></a>
 
 <br/>  
   
@@ -112,3 +112,8 @@
   </tr>
 </table>
 <!--END_SECTION:top-followers-->
+
+### 💬 Clients FeedBack ✍
+![](https://github.com/lightlifedev/lightlifedev/blob/master/Feedback1.png)
+![](https://github.com/lightlifedev/lightlifedev/blob/master/Feedback2.png)
+![](https://github.com/lightlifedev/lightlifedev/blob/master/Feedback3.png)
