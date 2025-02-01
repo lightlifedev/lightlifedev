@@ -1,29 +1,6 @@
-## Hi there 👋
+<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/44104676/173990923-48b66056-0bff-472a-b5bf-faab4146e950.gif" height="40"> I'm Nigel</h1>
 
-<a href="https://github.com/lightlifedev"><img src="https://github.com/lightlifedev/lightlifedev/blob/master/Total.png" width="1000"/></a>
-
-<table>
-  <tr>
-    <td>
-      
-- [ ✨ CodeStar007, Welcome!](#codestar007-welcome!-)
-    - [Languages and Tools](#languages-and-tools-)
-    - [My Followers](#my-followers-)
-    - [Clients FeedBack](#Clients-FeedBack-)
-    - [About Me](#About-Me-)
-    - [Rapidfire](#Rapidfire-)
-- [ 🏆 Recent Work](#Recent-Work-)
-    - [Shopping](#Shopping)
-    - [NatureCity](#NatureCity-)
-    - [Wine shopsite](#wine-shopsite-)
-    - [PHP SEO Improving](#PHP-SEO-Improving-)
-
-    </td>
-    <td>    
-      <a href="https://nigel-russell-rouge.vercel.app/"><img src="https://github.com/lightlifedev/portfolio_html/blob/master/assets/img/FirstIMG.jpg" width="1000"/></a>
-    </td>
-  </tr>
-</table>
+<a href="https://github.com/lightlifedev"><img src="https://github.com/lightlifedev/lightlifedev/blob/master/portfolio.png" width="1000"/></a>
 
 <!--
 **lightlifedev/lightlifedev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
