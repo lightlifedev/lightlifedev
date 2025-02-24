@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://user-images.githubusercontent.com/44104676/173990923-48b66056-0bff-472a-b5bf-faab4146e950.gif" height="40"> I'm Nigel</h1>
 
-<h2 align="center">⚡ Tech Stack</h1>
+<h2 align="center">⚡ Tech Stack</h2>
 <table align="center">
   <tr>
     <td align="center" width="105">
@@ -203,15 +203,31 @@
  </tr>
 </table>
 
-<p>
-  &nbsp;<img
-    align="center"
-    src="https://github-readme-stats-tony.vercel.app/api?username=lightlifedev&show_icons=true&theme=nord"
-    alt="lightlifedev"
-  />
+</br>
+</br>
+
+## 📊 GitHub Activities:
+
+<p align="center">
+  <a href="https://github.com/lightlifedev?tab=repositories">
+    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=lightlifedev&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@lightlifedev's github-readme-stats"/>
+  </a>
+  <a href="https://github.com/lightlifedev?tab=repositories">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=lightlifedev&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@hcrypto7's github-readme-streak-stats"/>
+  </a>
 </p>
 
-### 💬 Clients FeedBack ✍
+<!-- activity graph heroku-app start -->
+<p align="center">
+    <a href="https://wakatime.com/@hcrypto7">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=hcrypto7&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
+    </a>
+</p>
+
+</br>
+</br>
+
+## 💬 Clients FeedBack ✍
 <img src="https://github.com/lightlifedev/lightlifedev/blob/master/Feedback1.png" width="1000"/><br/>
 <img src="https://github.com/lightlifedev/lightlifedev/blob/master/Feedback2.png" width="1000"/><br/>
 <img src="https://github.com/lightlifedev/lightlifedev/blob/master/Feedback3.png" width="1000"/>
