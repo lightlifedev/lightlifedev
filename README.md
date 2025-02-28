@@ -67,6 +67,18 @@
     </td>
     <td align="center" width="105">
         <a href="https://www.w3schools.com/js/default.asp">
+            <img src="https://avatars.githubusercontent.com/u/8534733?v=4" alt="icon" width="65" height="65" />
+            <br>Angular
+        </a>
+    </td>
+    <td align="center" width="105">
+        <a href="https://www.w3schools.com/typescript/index.php">
+            <img src="https://avatars.githubusercontent.com/u/6128107?s=200&v=4" alt="icon" width="65" height="65" />
+            <br>Vue
+        </a>
+    </td>
+    <td align="center" width="105">
+        <a href="https://www.w3schools.com/js/default.asp">
             <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
             <br>JavaScript
         </a>
@@ -89,6 +101,8 @@
             <br>Rust
         </a>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="105">
         <a href="https://www.w3schools.com/python/numpy/default.asp">
             <img src="https://nigelrussell.vercel.app/_next/image?url=%2Fimages%2Fskills%2Fcsharp.png&w=1920&q=50" alt="C#" width="" height="65" />
@@ -101,8 +115,6 @@
             <br>Solidity
         </a>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="105">
         <a href="https://www.w3schools.com/python/scipy/index.php">
             <img src="https://nigelrussell.vercel.app/images/skills/Go.svg" width="65" height="65" alt="Go" />
@@ -111,7 +123,7 @@
     </td>
     <td align="center" width="105">
         <a href="https://www.w3schools.com/datascience/default.asp">
-            <img src="  https://techstack-generator.vercel.app/graphql-icon.svg" width="65" height="65" alt="GraphQL" />
+            <img src="https://techstack-generator.vercel.app/graphql-icon.svg" width="65" height="65" alt="GraphQL" />
             <br>GraphQL
         </a>
     </td>
@@ -125,18 +137,6 @@
         <a href="https://www.geeksforgeeks.org/docker-tutorial/">
             <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
             <br>Docker
-        </a>
-    </td>
-    <td align="center" width="105">
-        <a href="https://www.w3schools.com/js/default.asp">
-            <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-            <br>JavaScript
-        </a>
-    </td>
-    <td align="center" width="105">
-        <a href="https://www.w3schools.com/typescript/index.php">
-            <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
-            <br>TypeScript
         </a>
     </td>
     <td align="center" width="105">
