@@ -209,10 +209,10 @@
 ## 📊 GitHub Activities:
 
 <div align="center" style="display:flex; gap:4px;">
-  <a href="https://github.com/lightlifedev?tab=repositories">
+  <a href="https://github.com/lightlifedev?tab=repositories" width="50%">
     <img src="https://github-readme-stats-one-bice.vercel.app/api?username=lightlifedev&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="@lightlifedev's github-readme-stats"/>
   </a>
-  <a href="https://github.com/lightlifedev?tab=repositories">
+  <a href="https://github.com/lightlifedev?tab=repositories" width="50%">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=JMousqueton&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="@hcrypto7's github-readme-streak-stats"/>
   </a>
 </div>
