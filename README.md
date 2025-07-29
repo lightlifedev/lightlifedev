@@ -226,13 +226,4 @@
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=hcrypto7&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
     </a>
 </p> -->
-
-</br>
-</br>
-
-## 💬 Clients FeedBack ✍
-<img src="https://github.com/lightlifedev/lightlifedev/blob/master/Feedback1.png" width="1000"/><br/>
-<img src="https://github.com/lightlifedev/lightlifedev/blob/master/Feedback2.png" width="1000"/><br/>
-<img src="https://github.com/lightlifedev/lightlifedev/blob/master/Feedback3.png" width="1000"/>
-
 <br />
